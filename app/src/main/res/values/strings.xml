@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OnTime</string>
+    <string name="str_time_on_earth">Time on Earth</string>
+    <string name="str_in_minutes">in minutes</string>
+    <string name="str_selected_date">Selected Date</string>
+    <string name="str_14400_minutes">14400 minutes</string>
+    <string name="str_1_day">1 day</string>
+    <string name="str_birthday">Birthday</string>
+</resources>
